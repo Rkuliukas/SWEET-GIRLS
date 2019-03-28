@@ -1,0 +1,52 @@
+<video>
+      <source src="How to make chocolate velvet ice cream video - Allrecipes.co.uk.mp4" type="video/mp4">
+    </video>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+body {
+  text-align:justify;
+  color:black;
+  background-color:lightblue;
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+<button type="button" onclick="document.write (Nutritional Information-Calories- 323, Fat-21 g(32%), Carbohydrates-36 g(12%), Protein-4 g(8%), Saturated Fat- 13 g(63%), Sodium-29 mg(1%), Polyunsaturated Fat-1 g, Fiber-3 g(10%), Monounsaturated Fat-7 g, Cholesterol-107 mg (36%))">Nutritional information</button>
+
+
+ <img src="ice-cream-1.jpg" alt="Chocolate velvet ice cream">
+
+body {
+	margin: 0;
+	color: #000;
+	background-color:
+	font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+	font-weight: 300;
+        -webkit-font-smoothing: antialiased;
+	line-height: 1.5em;
+}
+
+.icecreamingredients{
+  text-align:justify;
+  font-size: 1.5em;
+font-weight:50;
+font-family:sans-serif;
+}
+.icecreammethod{
+  text-align: justify;
+  font-size: 1.5em;
+  font-weight: 50;
+  font-family: sans-serif;
+
+}
+.icecreamnutritional{
+  text-align: justify;
+  font-size: 1.5em;
+  font-weight: 50;
+  font-family: sans-serif;
+}
