@@ -6,7 +6,7 @@ body{
   font-weight:30;
 background-image: linear-gradient(skyblue, lightgreen, skyblue, lightgreen, skyblue, lightgreen);
 margin: 0 auto;
-max-width: 600px;
+max-width:600px;
 transition: height .5s;
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
