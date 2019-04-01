@@ -1,0 +1,42 @@
+body {
+ font-family: monospace;
+ background-color: #ffffb3;
+ padding: 25px;
+ align-items: center;
+}
+body{
+ font-size: 1.0em;
+ text-align:justify;
+ font-style: normal;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight:30;
+background-image: linear-gradient(skyblue, lightgreen, skyblue, lightgreen, skyblue, lightgreen);
+margin: 0 auto;
+max-width:600px;
+transition: height .5s;
+ -webkit-transition: height .5s;
+ -moz-transition: height .5s;
+}
+h1{
+ font-style: italic;
+ font-size: 3em;
+ font-family: fantasy;
+ text-align: center;
+}
+img {
+    position:relative;
+    width:100%;
+    height:auto;
+}
+.icecreamingredients {
+ resize: vertical;
+ overflow: auto;
+}
+ol {
+ list-style-type: circle;
+ color: rgb(0,0,0,0.9);
+}
+video{
+ width:100%;
+    height:auto;
+}
