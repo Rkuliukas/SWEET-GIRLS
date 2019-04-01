@@ -9,23 +9,23 @@ body {
 
 li {
 text-align: right;
-color: pink;
+color: #ff91af;
 font-size: 1em;
 font-family: monospace;
 }
 
-.pink {color: pink;
+.pink {color: #ff91af;
 }
 .pink,
 .pink:active
 .pink:link,
 .pink:visited {
-    color: pink;
+    color: #ff91af;
 }
 
 h1 {
   text-align: center;
-  color: pink;
+  color: #ff91af;
   font-size: 7em;
   font-weight: bold;
   font-family: monospace;
@@ -48,7 +48,7 @@ h2 {
 
 h3 {
   text-align: center;
-  color: pink;
+  color: #ff91af;
   font-size: 5em;
   font-weight: bold;
   font-family: monospace;
@@ -57,14 +57,14 @@ h3 {
 
 p {
   text-align: right;
-  color: pink;
+  color: #ff91af;
   font-size: 1em;
   font-family: monospace;
 }
 
 .topnav {
   align-items: center;
-  background-color: pink;
+  background-color: #ff91af;
   font-size: 3em;
   font-family: monospace;
   font-weight: bold;
@@ -83,7 +83,7 @@ p {
 
 .topnav a:hover {
   background-color: #ffffb3;
-  color: skyblue;
+  color: #ff91af;
   font-weight: bold;
 }
 
@@ -96,7 +96,7 @@ p {
   font-size: .5em;
   font-family: monospace;
   color: #ffffb3;
-  background-color: pink;
+  background-color: #ff91af;
 }
 
 .topnav input[placeholder="Search.."] {
@@ -119,7 +119,7 @@ p {
 
 form {
   text-align: center;
-  color: pink;
+  color: #ff91af;
   font-family: monospace;
   font-weight: bold;
   font-size: 1em;
