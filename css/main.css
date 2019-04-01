@@ -1,0 +1,35 @@
+
+img {
+    position:relative;
+    width:100%;
+    height:auto;
+}
+
+.logo{
+  position:relative;
+  width:10%;
+  height:auto;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+body{
+  background-image: linear-gradient(skyblue, lightgreen, skyblue, lightgreen, skyblue, lightgreen);
+  background-size: cover;
+  background-attachment: fixed;
+  width: 80%;
+  padding: 40px;margin: 100px auto;
+}
+h1{
+font-style: normal;
+font-family: sans-serif;
+}
+
+.team img{
+  width: 20%;
+  height:auto;
+}
+
+.socials{
+align-self: flex-end;
+}
