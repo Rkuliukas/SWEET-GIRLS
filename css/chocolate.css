@@ -2,27 +2,25 @@
 
 body {
   font-family: monospace;
-  background-color: ##ff91af;
+  background-color: #ffffb3;
   padding: 25px;
   align-items: center;
 }
 
 li {
-text-align: center;
+text-align: right;
 color: pink;
 font-size: 1em;
 font-family: monospace;
 }
 
-iframe {
-  align-items: center;
+.pink {color: pink;
 }
-
-href {
-  text-align: right;
-  color: pink;
-  font-size: 1em;
-  font-family: monospace;
+.pink,
+.pink:active
+.pink:link,
+.pink:visited {
+    color: pink;
 }
 
 h1 {
@@ -37,6 +35,8 @@ h1 {
 iframe {
   padding: inherit;
   align-items: center;
+  width: 60%;
+  margin: 0 auto;
 }
 
 h2 {
@@ -83,7 +83,7 @@ p {
 
 .topnav a:hover {
   background-color: #ffffb3;
-  color: pink;
+  color: skyblue;
   font-weight: bold;
 }
 
