@@ -3,18 +3,14 @@ img {
     position:relative;
     width:100%;
     height:auto;
- position: -webkit-sticky; /* Safari */
- position: sticky;
- top: 0;
+
 
 
 .logo{
   position:relative;
-  width:10%;
+  width:2%;
   height:auto;
-  align-items: flex-end;
-  justify-content: flex-end;
-}
+
 
 body{
   background-image: linear-gradient(skyblue, lightgreen, skyblue, lightgreen, skyblue, lightgreen);
