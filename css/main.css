@@ -13,6 +13,7 @@ img {
   }
 
 .logo {
+  border-radius: 50%;
   position:relative;
   width:30%;
   height:auto;
