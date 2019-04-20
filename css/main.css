@@ -23,8 +23,9 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-.team img{
-
+.column{
+display:block;
+width:20%;
   height:auto;
 }
 
