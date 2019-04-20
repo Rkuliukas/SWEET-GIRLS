@@ -26,9 +26,14 @@ font-family: sans-serif;
 .card{
 display:block;
 width:20%;
-  height:auto;
+  height:10%;
 }
 
+.column{
+display:block;
+width:20%;
+  height:10%;
+}
 .socials{
 align-self: flex-end;
 }
