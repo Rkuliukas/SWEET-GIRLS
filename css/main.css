@@ -23,11 +23,9 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-.Teamimg{
+.Teamimg {
   width: 5%;
-  height:auto;
-
-
+  height: 5%;
 }
 .socials{
 align-self: flex-end;
