@@ -24,7 +24,9 @@ font-family: sans-serif;
 }
 
 .Teamimg{
-  border-radius: 12.5%;
+  border-radius: 0%;
+  height: 5%;
+  width: 5%;
 
 }
 .socials{
