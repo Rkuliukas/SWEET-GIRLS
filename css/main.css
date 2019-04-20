@@ -23,8 +23,8 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-.image{
-  display: block;
+.column{
+  border-radius: 50%;
   width: 25%;
   height:auto;
 }
