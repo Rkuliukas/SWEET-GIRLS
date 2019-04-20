@@ -13,8 +13,8 @@ img {
   }
 
 .logo {
-  position:relative;
-  width:25%;
+  position:absolute;
+  width:30%;
   height:auto;
 }
 
