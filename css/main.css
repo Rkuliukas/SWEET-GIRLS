@@ -13,9 +13,9 @@ img {
   }
 
 .logo {
-  border-radius: 50%;
-  position:relative;
-  
+position:relative;
+  width:30%;
+  height:auto;
 }
 
 h1{
@@ -23,11 +23,7 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-.Team{
-  border-radius: 50%;
-  width: 25%;
-  height:auto;
-}
+
 .socials{
 align-self: flex-end;
 }
