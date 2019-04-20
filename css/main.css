@@ -13,7 +13,7 @@ img {
   }
 
 .logo {
-  position:absolute;
+  position:relative;
   width:30%;
   height:auto;
 }
@@ -23,7 +23,11 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-
+.imageteam{
+  display: block;
+  width: 25%;
+  height:auto;
+}
 .socials{
 align-self: flex-end;
 }
