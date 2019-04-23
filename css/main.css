@@ -23,7 +23,9 @@ font-style: normal;
 font-family: sans-serif;
 }
 
-
+.columnimage{
+  border-radius: 50%;
+}
 .socials{
 align-self: flex-end;
 
