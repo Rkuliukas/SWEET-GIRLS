@@ -3,12 +3,8 @@ body{
   background-size: cover;
   background-attachment: fixed;
   margin: 0 auto;
-  max-width:600px;
-  transition: height .5s;
-    -webkit-transition: height .5s;
-    -moz-transition: height .5s;
   }
-}
+
 
 img {
     position:relative;
