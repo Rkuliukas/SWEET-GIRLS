@@ -2,7 +2,9 @@ body{
   background-image: linear-gradient(skyblue, lightgreen, skyblue, lightgreen, skyblue, lightgreen);
   background-size: cover;
   background-attachment: fixed;
-  margin: 0 auto;
+  width: 50%;
+ padding: 40px;margin: 100px auto;
+
   }
 
 
