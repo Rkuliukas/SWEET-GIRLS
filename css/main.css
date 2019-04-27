@@ -28,8 +28,8 @@ font-family: sans-serif;
 }
 
 .columnimage{
-  height: 5%;
-  width: 10%;
+  height: 20px;
+  width: 100px;
   border-radius: 50%;
 }
 .socials{
